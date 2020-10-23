@@ -1,0 +1,31 @@
+body{
+    background-color:  #EBEBEB !important;
+}
+
+form{
+    background-color: white !important;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.btn-main{
+    background-color: #EBEBEB;
+}
+
+.border{
+    border: 1px solid black;
+}
+
+.hr-thick{
+    height: 3px;
+    background-color: #E9ECEF;
+}
+
+.newitem{
+    margin-left: 18%;
+}
+
+.hoversize:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
